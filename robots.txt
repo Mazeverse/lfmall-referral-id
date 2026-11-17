@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://lfmall-referral-id.pages.dev/sitemap.xml
